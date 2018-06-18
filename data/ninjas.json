@@ -1,0 +1,29 @@
+[{
+        "name": "Yoshi",
+        "belt": "green",
+        "rate": 50,
+        "available": true,
+        "thumb": "./content/avatar-icon.png"
+    },
+    {
+        "name": "Crystal",
+        "belt": "Yellow",
+        "rate": 30,
+        "available": true,
+        "thumb": "./content/Ninja_bg.png"
+    },
+    {
+        "name": "Ryu",
+        "belt": "Orange",
+        "rate": 10,
+        "available": true,
+        "thumb": "./content/ninja-icon.png"
+    },
+    {
+        "name": "Dan",
+        "belt": "black",
+        "rate": 1000,
+        "available": true,
+        "thumb": "./content/Venom_Symbiote_ingame.png"
+    }
+]

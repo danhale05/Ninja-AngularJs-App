@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myNinjaApp">
+
+<head>
+    <title>My Ninjas</title>
+    <!-- <base href="/" /> -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="content/css/styles.css" type="text/css">
+    <script src="app/lib/angular.min.js"></script>
+    <script src="app/lib/angular-route.min.js"></script>
+    <script src="app/lib/angular-animate.min.js"></script>
+    <script src="app/app.js"></script>
+
+</head>
+
+<body>
+    <header ng-include="'header.html'"></header>
+    <main ng-view></main>
+</body>
+
+</html>
